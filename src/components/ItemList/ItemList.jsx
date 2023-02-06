@@ -1,0 +1,12 @@
+import Item from "../Item/Item";
+
+//conversion de datos del json de JS a JSX con metodo map
+const ItemList = ({products}) => {
+    return (
+        <>
+          {products.map(producto => <Item item={producto} />)}  
+        </>
+    );
+}
+
+export default ItemList;

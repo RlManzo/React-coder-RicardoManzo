@@ -1,0 +1,131 @@
+[
+    {
+        "nombre": "Cuaderno AB3",
+        "id": 1,
+        "Categoria":1,
+        "img":"cuaderno1.jpg",
+        "precio": 350,
+        "marca":"Laprida",
+        "stock": 20
+    },
+    {
+        "nombre": "Cuaderno America",
+        "id":2,
+        "Categoria":1,
+        "img":"cuaderno2.jpg",
+        "precio": 250,
+        "marca":"Laprida",
+        "stock": 20
+    },
+    {
+        "nombre": "Agenda Docente 2023",
+        "id": 3,
+        "Categoria":1,
+        "img":"agenda1.jpg",
+        "precio":"500",
+        "marca":"Laprida",
+        "stock":15
+    },
+    {
+        "nombre": "Mochila Alpine Skate",
+        "id": 4,
+        "Categoria":2,
+        "img":"mochilaAlpine1.jpg",
+        "precio":"15000",
+        "marca":"Alpine Skate",
+        "stock":10
+    },
+    {
+        "nombre": "Mochila Alpine Skate",
+        "id": 5,
+        "Categoria":2,
+        "img":"mochilaAlpine2.jpg",
+        "precio":"17000",
+        "marca":"Alpine Skate",
+        "stock":10
+    },
+    {
+        "nombre": "Mochila Everlast Bi color",
+        "id": 6,
+        "Categoria":2,
+        "img":"mochilaEverlast1.jpg",
+        "precio":"12000",
+        "marca":"Everlast",
+        "stock":10
+    },
+    {
+        "nombre": "Mochila Everlast clasica",
+        "id": 7,
+        "Categoria":2,
+        "img":"mochilaEverlast2.jpg",
+        "precio":"12000",
+        "marca":"Everlast",
+        "stock":10
+    },
+    {
+        "nombre": "Mochila Happy Mind",
+        "id": 8,
+        "Categoria":2,
+        "img":"mochilaHappy.jpg",
+        "precio":13500,
+        "marca":"Happy",
+        "stock":"13"
+    },
+    {
+        "nombre": "Set compas+Regla",
+        "id": 9,
+        "Categoria":3,
+        "img":"setRegla.png",
+        "precio":"650",
+        "marca":"KeyRoad",
+        "stock":30
+    },
+    {
+        "nombre": "Silicona liquida",
+        "id": 10,
+        "Categoria":3,
+        "img":"silicona.png",
+        "precio":"1200",
+        "marca":"CBX",
+        "stock":25
+    },
+    {
+        "nombre": "Pinceles chatos sinteticos",
+        "id": 11,
+        "Categoria":3,
+        "img":"pincelesChatos.png",
+        "precio":"800",
+        "marca":"CBX",
+        "stock":15
+    },
+    {
+        "nombre": "Compas con lapiz",
+        "id": 12,
+        "Categoria":3,
+        "img":"compas.png",
+        "precio":"250",
+        "marca":"KeyRoad",
+        "stock":10
+    },
+    {
+        "nombre": "",
+        "id": "12",
+        "img":"",
+        "precio":"",
+        "linea":""
+    },
+    {
+        "nombre": "",
+        "id": "13",
+        "img":"",
+        "precio":"",
+        "linea":""
+    },
+    {
+        "nombre": "",
+        "id": "14",
+        "img":"",
+        "precio":"",
+        "linea":""
+    }
+]

@@ -4,3 +4,21 @@ body{
 .colorCarrito{
     color: white;
 }
+.Logo{
+    width: 50px;
+    
+}
+.cardProductos{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+.cardStyles{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.imgCard{
+    width: 260px;
+    height: 240px;
+}
