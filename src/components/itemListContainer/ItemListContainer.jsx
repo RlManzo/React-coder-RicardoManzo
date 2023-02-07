@@ -4,30 +4,28 @@ import ItemList from "../ItemList/ItemList";
 
 const ItemListContainer = () => {
 const [Productos, setProductos] = useState([]);
-const {Categoria}=useParams()
+const {Categoria}=useParams();
 useEffect(() =>{
     if(Categoria){
         fetch('../Json/Productos.json')
     .then(response => response.json())
     .then(items =>{
         const product = items.filter(prod => prod.Categoria === Categoria) 
-        const productsList = ItemList({product})
-        setProductos(productsList)
+        setProductos(product)
         })
     }
     else{
         fetch('./Json/Productos.json')
     .then(response => response.json())
     .then(products =>{
-        const productsList = ItemList({products})
-        setProductos(productsList)
+         setProductos(products)
         })
     }
     
 },[Categoria])
     return (
         <div className="row cardProductos">
-            {Productos}
+        <ItemList products= {Productos}/>
         </div>
     )
 

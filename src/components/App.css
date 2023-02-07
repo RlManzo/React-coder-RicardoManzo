@@ -22,3 +22,17 @@ body{
     width: 260px;
     height: 240px;
 }
+.botonDetailItem{
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left: 800px;
+    margin-bottom: 50px;
+}
+.cardDetailContainer{
+    margin-top: 30px;
+    width: 700px;
+   
+}
+.imgDetail{
+    width: 130%;
+}

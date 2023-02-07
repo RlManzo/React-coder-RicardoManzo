@@ -2,7 +2,7 @@
     {
         "nombre": "Cuaderno AB3",
         "id": 1,
-        "Categoria":1,
+        "Categoria":"papel",
         "img":"cuaderno1.jpg",
         "precio": 350,
         "marca":"Laprida",
@@ -11,7 +11,7 @@
     {
         "nombre": "Cuaderno America",
         "id":2,
-        "Categoria":1,
+        "Categoria":"papel",
         "img":"cuaderno2.jpg",
         "precio": 250,
         "marca":"Laprida",
@@ -20,7 +20,7 @@
     {
         "nombre": "Agenda Docente 2023",
         "id": 3,
-        "Categoria":1,
+        "Categoria":"papel",
         "img":"agenda1.jpg",
         "precio":"500",
         "marca":"Laprida",
@@ -29,7 +29,7 @@
     {
         "nombre": "Mochila Alpine Skate",
         "id": 4,
-        "Categoria":2,
+        "Categoria":"mochilas",
         "img":"mochilaAlpine1.jpg",
         "precio":"15000",
         "marca":"Alpine Skate",
@@ -38,7 +38,7 @@
     {
         "nombre": "Mochila Alpine Skate",
         "id": 5,
-        "Categoria":2,
+        "Categoria":"mochilas",
         "img":"mochilaAlpine2.jpg",
         "precio":"17000",
         "marca":"Alpine Skate",
@@ -47,7 +47,7 @@
     {
         "nombre": "Mochila Everlast Bi color",
         "id": 6,
-        "Categoria":2,
+        "Categoria":"mochilas",
         "img":"mochilaEverlast1.jpg",
         "precio":"12000",
         "marca":"Everlast",
@@ -56,7 +56,7 @@
     {
         "nombre": "Mochila Everlast clasica",
         "id": 7,
-        "Categoria":2,
+        "Categoria":"mochilas",
         "img":"mochilaEverlast2.jpg",
         "precio":"12000",
         "marca":"Everlast",
@@ -65,7 +65,7 @@
     {
         "nombre": "Mochila Happy Mind",
         "id": 8,
-        "Categoria":2,
+        "Categoria":"mochilas",
         "img":"mochilaHappy.jpg",
         "precio":13500,
         "marca":"Happy",
@@ -74,7 +74,7 @@
     {
         "nombre": "Set compas+Regla",
         "id": 9,
-        "Categoria":3,
+        "Categoria":"libreria",
         "img":"setRegla.png",
         "precio":"650",
         "marca":"KeyRoad",
@@ -83,7 +83,7 @@
     {
         "nombre": "Silicona liquida",
         "id": 10,
-        "Categoria":3,
+        "Categoria":"libreria",
         "img":"silicona.png",
         "precio":"1200",
         "marca":"CBX",
@@ -92,7 +92,7 @@
     {
         "nombre": "Pinceles chatos sinteticos",
         "id": 11,
-        "Categoria":3,
+        "Categoria":"libreria",
         "img":"pincelesChatos.png",
         "precio":"800",
         "marca":"CBX",
@@ -101,31 +101,10 @@
     {
         "nombre": "Compas con lapiz",
         "id": 12,
-        "Categoria":3,
+        "Categoria":"libreria",
         "img":"compas.png",
         "precio":"250",
         "marca":"KeyRoad",
         "stock":10
-    },
-    {
-        "nombre": "",
-        "id": "12",
-        "img":"",
-        "precio":"",
-        "linea":""
-    },
-    {
-        "nombre": "",
-        "id": "13",
-        "img":"",
-        "precio":"",
-        "linea":""
-    },
-    {
-        "nombre": "",
-        "id": "14",
-        "img":"",
-        "precio":"",
-        "linea":""
     }
 ]
