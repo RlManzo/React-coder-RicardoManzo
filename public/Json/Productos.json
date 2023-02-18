@@ -3,7 +3,7 @@
         "nombre": "Cuaderno AB3",
         "id": 1,
         "Categoria":"papel",
-        "img":"cuaderno1.jpg",
+        "img":"https://firebasestorage.googleapis.com/v0/b/react-proyecto-coder-8aa7f.appspot.com/o/cuaderno1.jpg?alt=media&token=e21ae096-9cfe-4b67-b6de-98ef88f4364a",
         "precio": 350,
         "marca":"Laprida",
         "stock": 20
@@ -12,7 +12,7 @@
         "nombre": "Cuaderno America",
         "id":2,
         "Categoria":"papel",
-        "img":"cuaderno2.jpg",
+        "img":"https://firebasestorage.googleapis.com/v0/b/react-proyecto-coder-8aa7f.appspot.com/o/cuaderno2.jpg?alt=media&token=54bfd497-cd71-4f60-8bea-00648b38310e",
         "precio": 250,
         "marca":"Laprida",
         "stock": 20
@@ -21,7 +21,7 @@
         "nombre": "Agenda Docente 2023",
         "id": 3,
         "Categoria":"papel",
-        "img":"agenda1.jpg",
+        "img":"https://firebasestorage.googleapis.com/v0/b/react-proyecto-coder-8aa7f.appspot.com/o/agenda1.jpg?alt=media&token=90de5843-b5bc-4a48-9d9a-b011551861f7",
         "precio":"500",
         "marca":"Laprida",
         "stock":15
@@ -30,7 +30,7 @@
         "nombre": "Mochila Alpine Skate",
         "id": 4,
         "Categoria":"mochilas",
-        "img":"mochilaAlpine1.jpg",
+        "img":"https://firebasestorage.googleapis.com/v0/b/react-proyecto-coder-8aa7f.appspot.com/o/mochilaAlpine1.jpg?alt=media&token=658090f7-0009-4422-80ba-5e5714f49926",
         "precio":"15000",
         "marca":"Alpine Skate",
         "stock":10
@@ -39,7 +39,7 @@
         "nombre": "Mochila Alpine Skate",
         "id": 5,
         "Categoria":"mochilas",
-        "img":"mochilaAlpine2.jpg",
+        "img":"https://firebasestorage.googleapis.com/v0/b/react-proyecto-coder-8aa7f.appspot.com/o/mochilaAlpine2.jpg?alt=media&token=1416ffd0-3edf-4e84-afac-b2b758346f35",
         "precio":"17000",
         "marca":"Alpine Skate",
         "stock":10
@@ -48,7 +48,7 @@
         "nombre": "Mochila Everlast Bi color",
         "id": 6,
         "Categoria":"mochilas",
-        "img":"mochilaEverlast1.jpg",
+        "img":"https://firebasestorage.googleapis.com/v0/b/react-proyecto-coder-8aa7f.appspot.com/o/mochilaEverlast1.jpg?alt=media&token=c96be6e8-9e77-46f7-b9a9-0e8c777d8e48",
         "precio":"12000",
         "marca":"Everlast",
         "stock":10
@@ -57,7 +57,7 @@
         "nombre": "Mochila Everlast clasica",
         "id": 7,
         "Categoria":"mochilas",
-        "img":"mochilaEverlast2.jpg",
+        "img":"https://firebasestorage.googleapis.com/v0/b/react-proyecto-coder-8aa7f.appspot.com/o/mochilaEverlast2.jpg?alt=media&token=ca44b0f3-290b-49ef-9f83-404348579f99",
         "precio":"12000",
         "marca":"Everlast",
         "stock":10
@@ -66,7 +66,7 @@
         "nombre": "Mochila Happy Mind",
         "id": 8,
         "Categoria":"mochilas",
-        "img":"mochilaHappy.jpg",
+        "img":"https://firebasestorage.googleapis.com/v0/b/react-proyecto-coder-8aa7f.appspot.com/o/mochilaHappy.jpg?alt=media&token=da099898-9ccc-49a6-bd71-0d61e0a83315",
         "precio":13500,
         "marca":"Happy",
         "stock":"13"
@@ -75,7 +75,7 @@
         "nombre": "Set compas+Regla",
         "id": 9,
         "Categoria":"libreria",
-        "img":"setRegla.png",
+        "img":"https://firebasestorage.googleapis.com/v0/b/react-proyecto-coder-8aa7f.appspot.com/o/setRegla.png?alt=media&token=414bba95-824a-4a0f-8ff1-81289bcce358",
         "precio":"650",
         "marca":"KeyRoad",
         "stock":30
@@ -84,7 +84,7 @@
         "nombre": "Silicona liquida",
         "id": 10,
         "Categoria":"libreria",
-        "img":"silicona.png",
+        "img":"https://firebasestorage.googleapis.com/v0/b/react-proyecto-coder-8aa7f.appspot.com/o/silicona.png?alt=media&token=b919b60f-6d97-4791-a14f-e9ebc5b2e65d",
         "precio":"1200",
         "marca":"CBX",
         "stock":25
@@ -93,7 +93,7 @@
         "nombre": "Pinceles chatos sinteticos",
         "id": 11,
         "Categoria":"libreria",
-        "img":"pincelesChatos.png",
+        "img":"https://firebasestorage.googleapis.com/v0/b/react-proyecto-coder-8aa7f.appspot.com/o/pincelesChatos.png?alt=media&token=c9ffe690-a51c-45ea-9a0f-64ff428e8076",
         "precio":"800",
         "marca":"CBX",
         "stock":15
@@ -102,7 +102,7 @@
         "nombre": "Compas con lapiz",
         "id": 12,
         "Categoria":"libreria",
-        "img":"compas.png",
+        "img":"https://firebasestorage.googleapis.com/v0/b/react-proyecto-coder-8aa7f.appspot.com/o/compas.png?alt=media&token=c4fb8121-00c2-46d4-ba44-e813fc7279a4",
         "precio":"250",
         "marca":"KeyRoad",
         "stock":10
