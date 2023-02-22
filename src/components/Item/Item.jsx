@@ -4,7 +4,7 @@ const Item = ({item}) => {
     return (
         <>
     <div className="card cardStyles" style={{width: '18rem'}}>
-        <img src={`../ImgProducts/${item.img}`} className="card-img-top imgCard" alt="..." />
+        <img src={item.img} className="card-img-top imgCard" alt="..." />
         <div className="card-body">
           <h5 className="card-title titleColor">{item.nombre} </h5>
           <p className="card-text titleColor1">Marca: {item.marca} </p>

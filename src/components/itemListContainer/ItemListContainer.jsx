@@ -1,28 +1,29 @@
 import {useEffect,useState} from "react";
 import { useParams } from "react-router-dom";
 import ItemList from "../ItemList/ItemList";
+import { getProductos } from "../../firebase/firebase";
 
 const ItemListContainer = () => {
 const [Productos, setProductos] = useState([]);
-const {Categoria}=useParams();
+const {idCategoria}=useParams();
 useEffect(() =>{
-    if(Categoria){
-        fetch('../Json/Productos.json')
-    .then(response => response.json())
+    if(idCategoria){
+        getProductos()
     .then(items =>{
-        const product = items.filter(prod => prod.Categoria === Categoria) 
+        const product = items.filter(prod => prod.idCategoria === idCategoria) 
+        
         setProductos(product)
         })
     }
     else{
-        fetch('./Json/Productos.json')
-    .then(response => response.json())
+        getProductos()
     .then(products =>{
+        
          setProductos(products)
         })
     }
     
-},[Categoria])
+},[idCategoria])
     return (
         <div className="row cardProductos">
         <ItemList products= {Productos}/>
