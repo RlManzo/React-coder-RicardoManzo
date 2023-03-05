@@ -6,11 +6,8 @@ const Sections = () => {
             <li className="nav-item">
               <Link className="nav-link active" to={'/'}>Inicio<span className="visually-hidden">(current)</span></Link>
               </li>
-              <li className="nav-item active">
-                <a className="nav-link" href="#">Nosotros</a>
-              </li>
               <li className="nav-item">
-                <a className="nav-link" href="#">Contacto</a>
+              <Link className="nav-link " to={'/contacto'} > Contacto</Link>
               </li>
         </>
     );
